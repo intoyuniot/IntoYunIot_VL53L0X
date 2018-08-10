@@ -1,0 +1,17 @@
+{
+    "name": "IntoYunIot_VL53L0X",
+    "version": "1.0.0",
+    "keywords": "VL53L0X",
+    "description": "Sensor driver for VL53L0X Time of Flight sensor",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/intoyuniot/IntoYunIot_VL53L0X.git"
+    },
+    "authors": {
+        "name": "robin",
+        "email": "robin@molmc.com"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}
+
